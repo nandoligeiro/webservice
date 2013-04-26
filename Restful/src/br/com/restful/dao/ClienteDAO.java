@@ -9,8 +9,8 @@ import br.com.restful.factory.ConnectionFactory;
 import br.com.restful.model.Cliente;
 
 /**
- * 
- * Classe responsável por conter os metodos do CRUD
+ * A classe foi mudada no github AAAA
+ * Classe responsï¿½vel por conter os metodos do CRUD
  *
  * @author Douglas Costa <douglas.cst90@gmail.com>
  * @since 17/02/2013 01:55:13
@@ -23,7 +23,7 @@ public class ClienteDAO extends ConnectionFactory {
 	
 	/**
 	 * 
-	 * Método responsável por criar uma instancia da classe ClienteDAO (Singleton)
+	 * Mï¿½todo responsï¿½vel por criar uma instancia da classe ClienteDAO (Singleton)
 	 *
 	 * @return
 	 * @author Douglas Costa <douglas.cst90@gmail.com.br>
@@ -38,7 +38,7 @@ public class ClienteDAO extends ConnectionFactory {
 	
 	/**
 	 * 
-	 * Método responsável por listar todos os clientes do banco
+	 * Mï¿½todo responsï¿½vel por listar todos os clientes do banco
 	 *
 	 * @return ArrayList<CLiente> clientes
 	 * @author Douglas Costa <douglas.cst90@gmail.com.br>
